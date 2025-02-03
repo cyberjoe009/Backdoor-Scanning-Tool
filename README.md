@@ -1,3 +1,4 @@
 # backdoor-Scanning-Tool
+Run this python code in a text editor or PyCharm and scan a file directory for backdoors.
 
-just type the file you wish to scan for backdoors. Run with a text editor or pycharm.
+example Enter_the_path_to_scan: /home/kali/cyber/cyber.txt
